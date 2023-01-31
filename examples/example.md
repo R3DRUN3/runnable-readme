@@ -15,5 +15,21 @@ export IP=$(curl ifconfig.me) \
 && sleep 3 \
 && echo Goodbye!
 ```
+<br/>
+
+And another one!  
+```console
+cd /tmp \
+&& echo "where am I?" \
+&& pwd \
+&& echo  "let's create folders in loop" \
+&& for i in {1..10}; do mkdir temp_repo_$i; done \
+&& echo "Sleeping for 2 seconds" \
+&& sleep 2 \
+&& echo "removing the folders" \
+```
+<br/>
+
+&& rm -r temp_repo_*
 
 
