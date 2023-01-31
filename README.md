@@ -6,7 +6,7 @@
 <img src="images/gopher.png" width="350" height="350">
 
 <br/>
-Make your readme executable!
+Make your readme executable! 📖 ⚙️
 
 <br/>
 
