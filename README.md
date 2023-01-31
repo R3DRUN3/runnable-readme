@@ -1,6 +1,7 @@
 # RUNNABLE README
 [![release](https://github.com/R3DRUN3/runnable-readme/actions/workflows/release.yaml/badge.svg)](https://github.com/R3DRUN3/runnable-readme/actions/workflows/release.yaml)
-
+[![Go Report Card](https://goreportcard.com/badge/github.com/R3DRUN3/runnable-readme)](https://goreportcard.com/report/github.com/R3DRUN3/runnable-readme)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 <br/>
 
 <img src="images/gopher.png" width="350" height="350">
