@@ -2,3 +2,5 @@
 .DS_Store
 # vs code folder
 .vscode
+# build file
+main
