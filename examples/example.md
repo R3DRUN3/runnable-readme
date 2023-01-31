@@ -27,9 +27,10 @@ cd /tmp \
 && echo "Sleeping for 2 seconds" \
 && sleep 2 \
 && echo "removing the folders" \
+&& rm -r temp_repo_*
 ```
 <br/>
 
-&& rm -r temp_repo_*
+
 
 
