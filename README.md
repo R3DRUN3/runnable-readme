@@ -43,7 +43,7 @@ Executing command number  1
 Output: Hello World!
 
 Executing command number  2
-Output: My external IP is: 87.0.22.162
+Output: My external IP is: 97.0.21.159
 Sleeping for 3 seconds
 Goodbye!
 
